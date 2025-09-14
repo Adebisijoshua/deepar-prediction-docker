@@ -5,7 +5,7 @@ It fetches data from AWS S3, processes it, sends it to an AWS SageMaker DeepAR m
 
 ---
 
-## 🚀 How I Built the Docker Image
+## 🚀 How the docker image was built.
 I built the Docker image, by navigating to the project folder and run:
 
 ```sh
